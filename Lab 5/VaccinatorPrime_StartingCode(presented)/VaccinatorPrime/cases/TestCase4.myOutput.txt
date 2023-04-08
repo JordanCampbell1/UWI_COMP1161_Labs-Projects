@@ -1,0 +1,10 @@
+RastaZeneca	1	0	95	Asthma
+AstraZeneca	2	0	90	Allergies
+4	John Silver	72	false
+6	Ginger Garden	27	true
+0	Sprat, Jack		[Asthma,, Diabetes]
+3	Hill, Jill		[Allergies]
+5	Tom, Jerry		[Allergies]
+FullyVaccinatedPerson@506e1b77
+FullyVaccinatedPerson@4fca772d
+FullyVaccinatedPerson@9807454
